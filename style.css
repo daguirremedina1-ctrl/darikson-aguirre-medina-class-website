@@ -1,0 +1,16 @@
+h1{color: rgb(183, 255, 116);}
+h2{color:rgb(0, 255, 72)}
+h3{text-align: left;
+color: rgb(224, 0, 209)}
+ul{color: rgb(207, 0, 200);
+text-align: left}
+button{color: rgb(255, 0, 0);}
+body{color: rgb(255, 254, 234);
+    background-color: rgb(25, 25, 25);
+    font-family:comic_sans;
+border-style: dotted;
+border-width: 50px;
+text-align: center;
+}
+@font-face{font-family:comic_sans;src:url(Fonts/ComicNeue-Regular.ttf);font-size: 50px;}
+p{color: rgb(0, 149, 92);}
